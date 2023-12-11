@@ -1084,8 +1084,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fe7812ac-aa19-41f6-9ed2-26e8d2611c1f)
     (property "Reference" "SW5" (id 0) (at 146.05 48.26 0))
-    (property "Value" "SW_PUSH" (id 1) (at 146.05 50.8 0))
-    (property "Footprint" "kbd.pretty:CherryMX_Choc_Hotswap" (id 2) (at 146.05 55.88 0)
+    (property "Value" "RESET_SW" (id 1) (at 146.05 50.8 0))
+    (property "Footprint" "kbd.pretty:ResetSW" (id 2) (at 146.05 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 146.05 55.88 0))
@@ -1206,7 +1206,7 @@
       (reference "SW4") (unit 1) (value "SW_PUSH") (footprint "kbd.pretty:CherryMX_Choc_Hotswap")
     )
     (path "/fe7812ac-aa19-41f6-9ed2-26e8d2611c1f"
-      (reference "SW5") (unit 1) (value "SW_PUSH") (footprint "kbd.pretty:CherryMX_Choc_Hotswap")
+      (reference "SW5") (unit 1) (value "RESET_SW") (footprint "kbd.pretty:ResetSW")
     )
     (path "/fff70b40-b639-4e03-b5d9-574111d4fa3d"
       (reference "U1") (unit 1) (value "ProMicro") (footprint "kbd.pretty:ProMicro_v2")
