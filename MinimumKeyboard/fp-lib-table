@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Keebio-Parts.pretty")(type "KiCad")(uri "/home/sotaro/Documents/keyboard/library/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "kbd.pretty")(type "KiCad")(uri "/home/sotaro/Documents/keyboard/library/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+)
