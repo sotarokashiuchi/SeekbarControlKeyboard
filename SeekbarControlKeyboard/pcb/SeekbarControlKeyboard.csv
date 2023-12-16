@@ -1,38 +1,20 @@
-"Source:","/home/sotaro/Documents/keyboard/MinimumKeyboard/SeekbarControlKeyboard/pcb/SeekbarControlKeyboard.kicad_sch"
-"Date:","2023年12月16日 11時21分01秒"
-"Tool:","Eeschema 6.0.2+dfsg-1"
-"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
-"Component Count:","16"
-
-"Individual Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"","","D1","D","Device:D","kbd.pretty:D3_TH_SMD_v2","~"
-"","","D2","D","Device:D","kbd.pretty:D3_TH_SMD_v2","~"
-"","","D3","D","Device:D","kbd.pretty:D3_TH_SMD_v2","~"
-"","","D4","D","Device:D","kbd.pretty:D3_TH_SMD_v2","~"
-"","","D5","D","Device:D","kbd.pretty:D3_TH_SMD_v2","~"
-"","","D6","D","Device:D","kbd.pretty:D3_TH_SMD_v2","~"
-"","","J1","MJ-4PP-9","keyboard:MJ-4PP-9","kbd.pretty:MJ-4PP-9","~"
-"","","J2","LED","Connector_Generic:Conn_01x03","kbd.pretty:StripLED_rev","~"
-"","","SW1","SW_PUSH","keyboard:SW_PUSH","kbd.pretty:CherryMX_Choc_Hotswap",""
-"","","SW2","RotaryEncoder_Switch","Device:RotaryEncoder_Switch","Keebio-Parts.pretty:RotaryEncoder_EC11","~"
-"","","SW3","SW_PUSH","keyboard:SW_PUSH","kbd.pretty:CherryMX_Choc_Hotswap",""
-"","","SW4","SW_PUSH","keyboard:SW_PUSH","kbd.pretty:CherryMX_Choc_Hotswap",""
-"","","SW5","RESET_SW","keyboard:SW_PUSH","kbd.pretty:ResetSW",""
-"","","SW6","SW_PUSH","keyboard:SW_PUSH","kbd.pretty:CherryMX_Choc_Hotswap",""
-"","","SW7","SW_PUSH","keyboard:SW_PUSH","kbd.pretty:CherryMX_Choc_Hotswap",""
-"","","U1","ProMicro","keyboard:ProMicro","kbd.pretty:ProMicro_v2",""
-
-
-
-"Collated Components:"
-
-"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
-"1","6","D1, D2, D3, D4, D5, D6","D","Device:D","kbd.pretty:D3_TH_SMD_v2","~"
-"2","1","J1","MJ-4PP-9","keyboard:MJ-4PP-9","kbd.pretty:MJ-4PP-9","~"
-"3","1","J2","LED","Connector_Generic:Conn_01x03","kbd.pretty:StripLED_rev","~"
-"4","5","SW1, SW3, SW4, SW6, SW7","SW_PUSH","keyboard:SW_PUSH","kbd.pretty:CherryMX_Choc_Hotswap",""
-"5","1","SW2","RotaryEncoder_Switch","Device:RotaryEncoder_Switch","Keebio-Parts.pretty:RotaryEncoder_EC11","~"
-"6","1","SW5","RESET_SW","keyboard:SW_PUSH","kbd.pretty:ResetSW",""
-"7","1","U1","ProMicro","keyboard:ProMicro","kbd.pretty:ProMicro_v2",""
+"No.","Qnty",Value,Vendor
+"1","1",PCB基盤,
+"2","1",トッププレート,
+"3","1",ボトムプレート,
+"4","1",ProMicro,
+"5","6",ダイオード,
+"6","1",タクトスイッチ,
+"7","2",TRRSジャック(MJ-4PP-9),
+"8","1",ジャンク線,
+"9","4",M2スペーサー6.5mm,
+"10","8",M2ネジ4mm,
+"11","1",LEDシート,
+"12","4",クッションゴム,
+"13","5","PCB ソケット CherryMX 用 ",
+"14","5","PCB ソケット Choc 用 ",
+"15","5",キースイッチ,
+"16","5",キーキャップ,
+"17","1",ロータリーエンコーダー,
+"18","1",ノブ・つまみ,
+,,,
