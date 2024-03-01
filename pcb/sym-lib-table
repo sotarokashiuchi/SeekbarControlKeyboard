@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "keyboard")(type "Legacy")(uri "/home/sotaro/Documents/keyboard/library/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "keyboard")(type "Legacy")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
 )

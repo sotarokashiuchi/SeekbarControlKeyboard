@@ -1,6 +1,4 @@
 (fp_lib_table
-  (lib (name "kbd.pretty")(type "KiCad")(uri "/home/sotaro/Documents/keyboard/library/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
-  (lib (name "Keebio-Parts.pretty")(type "KiCad")(uri "/home/sotaro/Documents/keyboard/library/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name "BrownSugar_KBD.pretty")(type "KiCad")(uri "/home/sotaro/Documents/keyboard/library/BrownSugar_KBD_KiCad_Library/BrownSugar_KBD/BrownSugar_KBD.pretty")(options "")(descr ""))
+  (lib (name "kbd.pretty")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "logo.pretty")(type "KiCad")(uri "${KIPRJMOD}/logo.pretty")(options "")(descr ""))
 )

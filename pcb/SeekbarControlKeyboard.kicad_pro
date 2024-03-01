@@ -345,10 +345,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "keyboard"
+    ]
   },
   "meta": {
-    "filename": "KeyboardPlayer.kicad_pro",
+    "filename": "SeekbarControlKeyboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
